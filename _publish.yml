@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 2afc376a-39f2-4adc-8b8a-55c6fe01aece
+      url: 'https://statik.quarto.pub/pyodide-drop-f59d'
